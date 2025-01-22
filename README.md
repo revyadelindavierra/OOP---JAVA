@@ -28,7 +28,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Developed by **Revy Adelinda Vierra**.  
 
 For questions or suggestions, feel free to reach out:  
-
-- Email: [Revy Adelinda Vierra](arreiva@gmail.com)  
+ 
 - LinkedIn: [Revy Adelinda Vierra](https://www.linkedin.com/in/revyadelindavierra)  
 
